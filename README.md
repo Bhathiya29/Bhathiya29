@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhathiya29&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhathiya29&layout=compact)](https://github.com/Bhathiya29/github-readme-stats)
 
 
