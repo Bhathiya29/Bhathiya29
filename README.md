@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhathiya29&show_icons=true&theme=algolia) :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhathiya29&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhathiya29&layout=compact)](https://github.com/Bhathiya29/github-readme-stats)
 
 
