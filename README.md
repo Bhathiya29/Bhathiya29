@@ -49,7 +49,7 @@ Here are a few of my standout projects that showcase my skills:
 
 ### 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/bhathiya-dissanayake
+- LinkedIn: https://www.linkedin.com/in/bhathiya-dissanayake-a67b321a1/
 
 ---
 
