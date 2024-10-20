@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/Bhathiya29">
     <img src="https://readme-typing-svg.herokuapp.com?color=0D70F3&size=17&lines=Bringing+Ideas+Into+Reality+Through+Code!" alt="Typing SVG">
   </a>
 </p>
@@ -29,13 +29,13 @@ I'm a dedicated software engineer with nearly 2 years of experience building use
 
 Here are a few of my standout projects that showcase my skills:
 
-- 🧠 [**Cogni Assess**](https://github.com/your-github-username/cogni-assess): A cutting-edge full-stack web application built with Python, Flask, JavaScript, and React, integrating deep learning models to automate aspect-based reviews. The system is architected for scalability and features a Fake Reviews Filtration system using a trained SVM model, enhancing solution accuracy. It includes a custom rule-based Aspect Extraction Algorithm and a dataset of 10,000 labeled aspects and sentiments.
+- 🧠 [**Cogni Assess**](https://github.com/Bhathiya29): A cutting-edge full-stack web application built with Python, Flask, JavaScript, and React, integrating deep learning models to automate aspect-based reviews. The system is architected for scalability and features a Fake Reviews Filtration system using a trained SVM model, enhancing solution accuracy. It includes a custom rule-based Aspect Extraction Algorithm and a dataset of 10,000 labeled aspects and sentiments.
 
-- 🚀 [**Microservices Quiz App**](https://github.com/your-github-username/microservices-quiz-app): A robust quiz application following the Microservices Architecture, developed using Java and Spring Boot. The app features decoupled Quiz and Question services, integrated with an API Gateway for seamless routing, and load balancing through Feign Client. The backend is powered by PostgreSQL, with over 10 REST API endpoints handling the core functionalities of the platform.
+- 🚀 [**Microservices Quiz App**](https://github.com/Bhathiya29/Springboot-Microservices-Quiz-App): A robust quiz application following the Microservices Architecture, developed using Java and Spring Boot. The app features decoupled Quiz and Question services, integrated with an API Gateway for seamless routing, and load balancing through Feign Client. The backend is powered by PostgreSQL, with over 10 REST API endpoints handling the core functionalities of the platform.
 
-- 📊 [**PIXL Social Media App**](https://github.com/your-github-username/pixl-social-media-app): A scalable social media platform designed with PHP, JavaScript, and CodeIgniter 3, following the MVC architecture. The app handles user registration, post creation, liking, commenting, and logout functionalities, with a Backbone.js front-end communicating via API calls. It includes over 20 RESTful API endpoints, optimized for high performance and low latency.
+- 📊 [**PIXL Social Media App**](https://github.com/Bhathiya29/Pixl): A scalable social media platform designed with PHP, JavaScript, and CodeIgniter 3, following the MVC architecture. The app handles user registration, post creation, liking, commenting, and logout functionalities, with a Backbone.js front-end communicating via API calls. It includes over 20 RESTful API endpoints, optimized for high performance and low latency.
 
-- 💫 [**Node Blog**](https://github.com/your-github-username/node-blog): A full-featured blog application built with Node.js, Express, and MongoDB, following MVC architecture. The app allows users to create, read, update, and delete blog posts, with a RESTful API. EJS is used as the templating engine to ensure a responsive and well-styled user interface.
+- 💫 [**Node Blog**](https://github.com/Bhathiya29/NodeBlog): A full-featured blog application built with Node.js, Express, and MongoDB, following MVC architecture. The app allows users to create, read, update, and delete blog posts, with a RESTful API. EJS is used as the templating engine to ensure a responsive and well-styled user interface.
 
 ---
 
