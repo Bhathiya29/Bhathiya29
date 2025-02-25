@@ -43,7 +43,7 @@ Here are a few of my standout projects that showcase my skills:
 
 - Building innovative solutions with cloud technologies and a varity of tech stacks.
 - Enhancing my skills in Machine Learning and Data Science.
-- Contributing to open-source projects and expanding my knowledge in Go and Kubernetes.
+- Pursuing a Master of Data Science.
 
 ---
 
