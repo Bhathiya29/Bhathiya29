@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 
-I'm a dedicated software engineer with nearly 2 years of experience building user-centric and scalable software applications. I specialize in full-stack development to deliver efficient solutions for complex business challenges. My expertise spans across a wide range of technologies, including:
+I'm a dedicated software engineer with nearly 3 years of experience building user-centric and scalable enterprise level software applications. I specialize in full-stack development to deliver efficient solutions for complex business challenges. My expertise spans across a wide range of technologies, including:
 
 - **Backend**: Java (Spring Boot), Node.js (Express.js), Python (Flask), Go, PLSQL
 - **Frontend**:  React, JavaScript, Material UI, Bootstrap, HTML, CSS
@@ -41,8 +41,8 @@ Here are a few of my standout projects that showcase my skills:
 
 ### 💡 What I'm Currently Working On
 
-- Building innovative solutions with cloud technologies and containers.
-- Enhancing my skills in Web3 and Blockchain.
+- Building innovative solutions with cloud technologies and a varity of tech stacks.
+- Enhancing my skills in Machine Learning and Data Science.
 - Contributing to open-source projects and expanding my knowledge in Go and Kubernetes.
 
 ---
